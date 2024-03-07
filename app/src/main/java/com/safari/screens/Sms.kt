@@ -165,7 +165,7 @@ fun sendMessage(phone : String,item: ShopItem, text: String, context: Context) {
             "$text  ${item.itemName}", null, null
         )
 
-        Toast.makeText(context, "sent Successfully", Toast.LENGTH_LONG).show()
+        Toast.makeText(context, "Message sent Successfully", Toast.LENGTH_LONG).show()
     } catch (e: Exception) {
         Toast.makeText(context, "Error sending ${e.message.toString()}", Toast.LENGTH_LONG).show()
 
