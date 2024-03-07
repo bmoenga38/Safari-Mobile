@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Safari</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="have_no_account">Have No Account?</string>
+    <string name="register">Register</string>
+    <string name="phone">Phone Number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="do_not_match">Passwords do not Match!!</string>
+    <string name="checkAllFields">Check if all fields are correct</string>
+    <string name="have_account">Have an Account?</string>
+    <string name="success">successfully registered</string>
+    <string name="problem_registering">There is a problem registering You</string>
+    <string name="Home">Home</string>
+    <string name="list">Shopping List</string>
+    <string name="account">Account</string>
+
+</resources>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "431580199729",
+    "firebase_url": "https://withdrawer-default-rtdb.firebaseio.com",
+    "project_id": "withdrawer",
+    "storage_bucket": "withdrawer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431580199729:android:417eced63046a39ed78e10",
+        "android_client_info": {
+          "package_name": "com.example.withdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431580199729-rvmsld1fh3pt3a46aifgvtsi0ros8m04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk7gVHHyuc2GZvW5L4JZGXp-cuLAAujmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431580199729-rvmsld1fh3pt3a46aifgvtsi0ros8m04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431580199729:android:21d5e081bcf7c26ad78e10",
+        "android_client_info": {
+          "package_name": "com.safari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431580199729-rvmsld1fh3pt3a46aifgvtsi0ros8m04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk7gVHHyuc2GZvW5L4JZGXp-cuLAAujmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431580199729-rvmsld1fh3pt3a46aifgvtsi0ros8m04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
